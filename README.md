@@ -1,6 +1,6 @@
 # 🤖 Créer un Bot Discord avec Node.js et Discord.js "FRANCAIS"
 
-Ce guide vous explique pas à pas comment créer votre propre bot Discord en utilisant **Node.js** et la bibliothèque **discord.js**.
+Ce guide vous explique comment créer votre propre bot Discord en utilisant **Node.js** et la bibliothèque **discord.js**.
 
 ---
 
