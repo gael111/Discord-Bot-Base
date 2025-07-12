@@ -45,4 +45,4 @@ et tu code :)
 
 
 
- # Merci d'avoir regardé le tuto (ptete si vous rusher le 100vues je fait le tuto de base faut mettre quoi sur le ficher :x )
+ # Merci d'avoir regardé le tuto (ptete si vous rusher le 5star je fait le tuto de base faut mettre quoi sur le ficher :x )
